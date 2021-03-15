@@ -1,6 +1,7 @@
 <?php
-    $dsn = 'mysql:host=localhost;dbname=zippyusedautos';
-    $username = 'root';
+    $dsn = 'mysql:host=pxukqohrckdfo4ty.cbetxkdyhwsb.us-east-1.rds.amazonaws.com;dbname=jlrl1bera9mi4e1s';
+    $username = 'eig4mu001wig252g';
+    $passowrd = 'hhi97jjpm32lxw4b';
 
     try {
         $db = new PDO($dsn, $username);
